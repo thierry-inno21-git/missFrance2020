@@ -6,12 +6,12 @@ Gamifying this election   + 100 years birthday
 
 Prénom   |   Nom  |  année d'élection |  Région | Autre titre | Profession |
 ---------|--------|-------------------|---------|-------------|------------|
-???|	|	2021|			
+Amandine|Petit	|	2021|Normandie			
 Clémence| 	Botino|	2020	|Guadeloupe		
 Vaimalama| 	Chaves|	2019	|Tahiti		
 Maeva| 	Coucke|	2018	|Nord Pas de Calais		
 Alicia| 	Ayles|	2017|	Guyane		
-Iris| 	Mittenaere*|	2016|	Nord Pas de Calais| Miss Univers 2016	Miss Univrs 2016	
+Iris| 	Mittenaere|	2016|	Nord Pas de Calais| Miss Univers 2016	Miss Univrs 2016	
 Camille| 	Cerf|	2015	|Nord Pas de Calais		
 Flora| 	Coquerelle|	2014|	Orléanais	||	Influenceuse
 Marine| 	Lorphelin|	2013|	Bourgogne		
